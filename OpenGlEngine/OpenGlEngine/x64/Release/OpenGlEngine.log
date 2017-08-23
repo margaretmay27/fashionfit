@@ -1,0 +1,12 @@
+﻿  Error.cpp
+Error.cpp(5): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  GLSLRunner.cpp
+c:\users\chanch\desktop\visual studio\openglengine\openglengine\GLSLRunner.h(2): fatal error C1083: Cannot open include file: 'GLEW\glew.h': No such file or directory
+  main.cpp
+c:\users\chanch\desktop\visual studio\openglengine\openglengine\MainGame.h(2): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  MainGame.cpp
+c:\users\chanch\desktop\visual studio\openglengine\openglengine\MainGame.h(2): fatal error C1083: Cannot open include file: 'SDL\SDL.h': No such file or directory
+  MathLib.cpp
+c:\users\chanch\desktop\visual studio\openglengine\openglengine\MathLib.h(2): fatal error C1083: Cannot open include file: 'GLEW/glew.h': No such file or directory
+  Sprite.cpp
+c:\users\chanch\desktop\visual studio\openglengine\openglengine\Sprite.h(2): fatal error C1083: Cannot open include file: 'GLEW\glew.h': No such file or directory

@@ -1,0 +1,5 @@
+﻿main.obj : error LNK2019: unresolved external symbol _SDL_Init referenced in function "int __cdecl SDL_main(void)" (?SDL_main@@YAHXZ)
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol _main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\Chanch\Desktop\Visual Studio\OpenGlEngine\deps/lib/SDL2.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\Chanch\Desktop\Visual Studio\OpenGlEngine\deps/lib/SDL2main.lib : warning LNK4272: library machine type 'x64' conflicts with target machine type 'X86'
+C:\Users\Chanch\Desktop\Visual Studio\OpenGlEngine\Debug\OpenGlEngine.exe : fatal error LNK1120: 2 unresolved externals

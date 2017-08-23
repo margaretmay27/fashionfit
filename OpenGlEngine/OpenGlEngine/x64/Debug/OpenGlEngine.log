@@ -1,0 +1,16 @@
+﻿  MathLib.cpp
+c:\users\chanch\desktop\openglengine\openglengine\mathlib.cpp(239): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\chanch\desktop\openglengine\openglengine\mathlib.cpp(240): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\chanch\desktop\openglengine\openglengine\mathlib.cpp(261): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+c:\users\chanch\desktop\openglengine\openglengine\mathlib.cpp(165): warning C4172: returning address of local variable or temporary: glArray
+  Compiling...
+  MainGame.cpp
+  ClothObject.cpp
+c:\users\chanch\desktop\openglengine\openglengine\clothobject.cpp(163): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  main.cpp
+  Sprite.cpp
+  OpenGlEngine.vcxproj -> C:\Users\chanch\Desktop\OpenGlEngine\x64\Debug\OpenGlEngine.exe
+  OpenGlEngine.vcxproj -> C:\Users\chanch\Desktop\OpenGlEngine\x64\Debug\OpenGlEngine.pdb (Partial PDB)
